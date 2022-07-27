@@ -5,3 +5,6 @@ Desafio promovido pela Alura.
 
 Instrutora:
 Rafa Ballerini
+
+#Desafio 1/7 Operações booleanas
+#Desafio 2/7 Variáveis
