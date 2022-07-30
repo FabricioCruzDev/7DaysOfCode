@@ -10,3 +10,4 @@ Rafa Ballerini
 #Desafio 1/7 Operações booleanas
 #Desafio 2/7 Variáveis
 #Desafio 3/7 Fluxo de decisão
+#Desafio 4/7 Loops e randomização
